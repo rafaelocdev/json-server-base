@@ -1,4 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "rafael@mail.com",
+      "password": "$2a$10$LOirDvj68tkGO4HsLBg6ve4003mxw/Ul40N6hb.F27qoPLFFAJ.j6",
+      "name": "Rafael",
+      "age": 34,
+      "id": 1
+    }
+  ],
   "tasks": []
 }
