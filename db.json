@@ -1,20 +1,4 @@
 {
-  "users": [
-    {
-      "email": "rafael@mail.com",
-      "password": "$2a$10$8/w1aWwGfAqopgXttnLQ3ufRXp9aoNgAYpKWzyLgsc9Fnv8BPx33C",
-      "name": "Rafael",
-      "age": 34,
-      "id": 1
-    }
-  ],
-  "tasks": [
-    {
-      "title": "Fazer caminhadas",
-      "description": "Caminhar 5 quilômetros",
-      "frequency": "Diariamente",
-      "userId": "1",
-      "id": 1
-    }
-  ]
+  "users": [],
+  "tasks": []
 }
